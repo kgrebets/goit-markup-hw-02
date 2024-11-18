@@ -33,7 +33,7 @@ body {
 }
 
 .header-nav-item:hover,
-.header-nav-item:visited,
+.header-nav-item:focus,
 .header-nav-item:active {
     color: #404bbf;
 }
@@ -49,7 +49,7 @@ body {
 }
 
 .header-address-item:hover,
-.header-address-item:visited,
+.header-address-item:focus,
 .header-address-item:active {
     color: #404bbf;
 }
