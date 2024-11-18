@@ -1,8 +1,14 @@
-.header {
-    height: 72px;
+body {
+    font-family: "Roboto", sans-serif;
+    background-color: #FFFFFF;
+    color: #434455;
 }
+
+.header {
+}
+
+.header-nav {}
 
 .hero {
     background-color: #2E2F42;
-    height: 600px;
 }
