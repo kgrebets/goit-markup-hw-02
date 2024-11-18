@@ -32,8 +32,9 @@ body {
     color: #2e2f42;
 }
 
-.header-nav-item :hover,
-.header-nav-item :active {
+.header-nav-item:hover,
+.header-nav-item:visited,
+.header-nav-item:active {
     color: #404bbf;
 }
 
@@ -48,6 +49,7 @@ body {
 }
 
 .header-address-item:hover,
+.header-address-item:visited,
 .header-address-item:active {
     color: #404bbf;
 }
